@@ -1,0 +1,11 @@
+h1{text-align:center;font-size:60px;color: black;margin-top: 20%;font-family: 'Times New Roman', Times, serif;}
+header{margin-top: -0,5%; background-color:white ;;margin-left: 28.75%;margin-right: 28.75%;border-style: solid;flood-color: black;font-size: 30px;}
+nav ul{display: flex;padding: 5%;list-style: none;justify-content: space-around;margin: 1%;}
+a{text-decoration: none;font-size: 20px;}
+img{display:block;margin-left: auto; margin-right: auto;}
+#politica{border-style: solid;flood-color: black;margin-top: 0.5%;}
+body{ background-color:darkred;}
+#desbravadores{border-style: solid;flood-color: black;margin-top: 0.5%;}
+.DBV{margin-top: 0.5%;color: black;margin-left: 40%;border-style: solid;background-color: white;border-color:black;border-radius: 10px;}
+#vacinações{border-style: solid;flood-color: black;margin-top: 0.5%;}
+iframe{margin-left: 37%;border-style: solid;flood-color: black;margin-top: 0.5%}
